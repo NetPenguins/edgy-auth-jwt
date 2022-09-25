@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pymongo==3.11.1
+motor
+jose
+pyjwt
+passlib[bcrypt]
+pydantic[email]
