@@ -30,3 +30,6 @@ python3 -m pip install -r requirements.txt
 # Run the app
 python3 main.py
 ```
+
+### Up and running
+Once you are up and running you can visit the docs by going to http://localhost:<port provided>/docs or http://localhost:<port provided>/redoc
